@@ -1,4 +1,4 @@
-// Findind Max No. through Ternary operator
+// Finding Max No. through Ternary operator
 import java.util.*;
 public class Abc16_MaxNoTernaryOpt {
     public static void main(String[] args) {
