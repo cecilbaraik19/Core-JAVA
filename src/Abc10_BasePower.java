@@ -1,5 +1,5 @@
 import java.util.*;
-public class BasePower {
+public class Abc10_BasePower {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int b,p;
