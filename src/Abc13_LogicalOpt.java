@@ -1,4 +1,4 @@
-public class Acb13_LogicalOpt {
+public class Abc13_LogicalOpt {
     public static void main(String[] args) {
         boolean a = true, b = false;
         System.out.println("Value of a     :"+a);
